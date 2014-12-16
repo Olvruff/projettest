@@ -1,19 +1,191 @@
-.21 {
+body {
+    margin:0px;
+}
+
+header {
+    background-color:#2E2E2E;
+}    
+
+.sommaire {
     font-variant: small-caps;
-    color: gray;
+    font-family: Paytone One;
+    font-size: 30px;
+    text-align:center;
+    padding:10px;
+    margin:0px;
+    color:#F2F2F2;
+    word-spacing: 80px;
+    height: 60px;
+}
+
+ul {
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+li {
+    display:inline;
+    text-decoration:none;
+}
+
+a {
+    text-decoration:none;
+    color:#FFFFFF;
+}
+
+p {
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+
+.blocnom {
+    background-color:#C60800;
+    padding-bottom:5%;
+    padding-top: 5%;
+    text-align:center;
+    height: 480px;
+}
+
+.bandeau1 {
+    background-color:#161A21;
+    height: 5px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.olivier {
+    height: 300px;
+    width: 600px;
 }
 
 h1 {
     font-variant: small-caps;
-    font-family: sans-serif;
+    font-family: Big John;
+    font-size: 35px;
+    color:#161A21;
+    text-align: right;
+    padding-right: 52%; 
+}
+
+.icon1 {
+    height: 230px;
+    position: relative;
+    bottom: 175px;
+    left: 140px;   
+}
+
+.icon2 {
+    height: 65px;
+    position: relative;
+    bottom: 260px;
+    left: 120px;    
+}
+
+.icon3 {
+    height: 55px;
+    position: relative;
+    bottom: 260px;
+    left: 165px; 
+}
+
+.partcursus {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align:center;
+}
+
+.bloctxt1 {
+    padding-left:30%;
+    padding-right:5%;
+    text-align:left;
+}
+
+.bloctxt2 {
+    padding-left:30%;
+    padding-right:5%;
+    text-align:left;
+}
+
+.partexp {
+    background-color:#F0F0F0;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align:center;
+}
+
+.txt3 {
+    padding-left:30%;
+    padding-right:5%;
+    text-align:left;
+}
+
+.visueldp {
+    height: 300px;
+    margin: 20px 50px 30px 0px;
+    
+}
+
+.affichesonges {
+    height: 300px;
+    margin : 20px 0px 30px 0px;
+}
+
+
+.partcompétences {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align:center;
+}
+
+.txt4 {
+    padding-left:30%;
+    padding-right:30%;
+    text-align:left;
+}
+
+.parttravaux {
+    background-color:#282828;
+    height: 300px;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align:center;
+}
+
+.txt5 {
+    padding-left:30%;
+    padding-right:30%;
+    text-align:left;
+}
+
+.ch2 {
+    background-color:#161A21;
+    width:300px;
+    height:300px;
+    border-radius: 150px;
+    text-align: center;
+    line-height: 230px;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: auto;
+    margin-top: auto;v
 }
 
 h2 {
-    font-variant: small-caps;
-    font-family: sans-serif;
+    color: white;
+    font-family: Big John;
+    font-size: 35px;
 }
 
 h3 {
-    font-variant: small-caps;
-    font-family: sans-serif;
+    font-family: Big John;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.travaux {
+    color:#FFFFFF;
 }
