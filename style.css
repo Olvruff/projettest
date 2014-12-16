@@ -68,24 +68,31 @@ h1 {
 }
 
 .icon1 {
-    height: 230px;
+    height: 170px;
     position: relative;
-    bottom: 175px;
-    left: 140px;   
+    bottom: 120px;
+    left: 210px;   
 }
 
 .icon2 {
-    height: 65px;
+    height: 49px;
     position: relative;
-    bottom: 260px;
-    left: 120px;    
+    bottom: 180px;
+    left: 195px;    
 }
 
 .icon3 {
-    height: 55px;
+    height: 40px;
     position: relative;
-    bottom: 260px;
-    left: 165px; 
+    bottom: 185px;
+    right: 6px; 
+}
+
+.icon4 {
+    height: 45px;
+    position: relative;
+    bottom: 250px;
+    right: 50px; 
 }
 
 .partcursus {
@@ -141,6 +148,23 @@ h1 {
     padding-left:30%;
     padding-right:30%;
     text-align:left;
+}
+
+.adobeicon {
+    height: 300px;
+}
+
+.htmlicon {
+    height:140px;
+    position:relative;
+    bottom: 0px;
+}
+
+.cssicon {
+    height:147px;
+    position:relative;
+    top: 10px;
+    margin-left: 20px;
 }
 
 .parttravaux {
